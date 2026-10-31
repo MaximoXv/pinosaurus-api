@@ -8,11 +8,17 @@ echo       PINOSAURUS API GENERATOR
 echo ========================================
 echo.
 
-powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File "%~dp0generate-api.ps1"
+powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File "%~dp0generate-api-v1.ps1"
+
+set "exitCode=%ERRORLEVEL%"
 
 echo.
 echo ========================================
-echo Codigo de salida: %ERRORLEVEL%
+if "%exitCode%"=="0" (
+    echo API.JSON GENERADO CORRECTAMENTE
+) else (
+    echo HUBO UN ERROR AL GENERAR EL JSON
+)
 echo ========================================
 echo.
 echo Presiona una tecla para cerrar...

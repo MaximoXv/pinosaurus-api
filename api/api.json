@@ -1,0 +1,9 @@
+[
+    {
+        "imgPortrait":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/mangas/POK%C3%89MON%20RED%20%26%20LEAF/portrait.png",
+        "mangaName":  "POKÉMON RED \u0026 LEAF",
+        "id":  1,
+        "order":  1,
+        "slug":  "pokemon-red-leaf"
+    }
+]
