@@ -1,0 +1,460 @@
+[
+    {
+        "chapterName":  "Episode 1 - Pallet Town",
+        "pages":  [
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/1.png",
+                          "order":  1
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/2.png",
+                          "order":  2
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/3.png",
+                          "order":  3
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/4.png",
+                          "order":  4
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/5.png",
+                          "order":  5
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/6.png",
+                          "order":  6
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/7.png",
+                          "order":  7
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/8.png",
+                          "order":  8
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/9.png",
+                          "order":  9
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/10.png",
+                          "order":  10
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/11.png",
+                          "order":  11
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/12.png",
+                          "order":  12
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/13.png",
+                          "order":  13
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/14.png",
+                          "order":  14
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/15.png",
+                          "order":  15
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/16.png",
+                          "order":  16
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/17.png",
+                          "order":  17
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/18.png",
+                          "order":  18
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/19.png",
+                          "order":  19
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/20.png",
+                          "order":  20
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/21.png",
+                          "order":  21
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/22.png",
+                          "order":  22
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/23.png",
+                          "order":  23
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/24.png",
+                          "order":  24
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/25.png",
+                          "order":  25
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/26.png",
+                          "order":  26
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/27.png",
+                          "order":  27
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/28.png",
+                          "order":  28
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/29.png",
+                          "order":  29
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/30.png",
+                          "order":  30
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/31.png",
+                          "order":  31
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/32.png",
+                          "order":  32
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/33.png",
+                          "order":  33
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/34.png",
+                          "order":  34
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/35.png",
+                          "order":  35
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%201%20-%20Pallet%20Town/36.png",
+                          "order":  36
+                      }
+                  ],
+        "order":  1
+    },
+    {
+        "chapterName":  "Episode 2 - Viridian City",
+        "pages":  [
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/1.png",
+                          "order":  1
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/2.png",
+                          "order":  2
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/3.png",
+                          "order":  3
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/4.png",
+                          "order":  4
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/5.png",
+                          "order":  5
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/6.png",
+                          "order":  6
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/7.png",
+                          "order":  7
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/8.png",
+                          "order":  8
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/9.png",
+                          "order":  9
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/10.png",
+                          "order":  10
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/11.png",
+                          "order":  11
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/12.png",
+                          "order":  12
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/13.png",
+                          "order":  13
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/14.png",
+                          "order":  14
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/15.png",
+                          "order":  15
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/16.png",
+                          "order":  16
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/17.png",
+                          "order":  17
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/18.png",
+                          "order":  18
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/19.png",
+                          "order":  19
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/20.png",
+                          "order":  20
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%202%20-%20Viridian%20City/21.png",
+                          "order":  21
+                      }
+                  ],
+        "order":  2
+    },
+    {
+        "chapterName":  "Episode 3 - Viridian Forest",
+        "pages":  [
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/1.png",
+                          "order":  1
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/2.png",
+                          "order":  2
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/3.png",
+                          "order":  3
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/4.png",
+                          "order":  4
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/5.png",
+                          "order":  5
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/6.png",
+                          "order":  6
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/7.png",
+                          "order":  7
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/8.png",
+                          "order":  8
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/9.png",
+                          "order":  9
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/10.png",
+                          "order":  10
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/11.png",
+                          "order":  11
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/12.png",
+                          "order":  12
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/13.png",
+                          "order":  13
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/14.png",
+                          "order":  14
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/15.png",
+                          "order":  15
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/16.png",
+                          "order":  16
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/17.png",
+                          "order":  17
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/18.png",
+                          "order":  18
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/19.png",
+                          "order":  19
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/20.png",
+                          "order":  20
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/21.png",
+                          "order":  21
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/22.png",
+                          "order":  22
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/23.png",
+                          "order":  23
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/24.png",
+                          "order":  24
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/25.png",
+                          "order":  25
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/26.png",
+                          "order":  26
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/27.png",
+                          "order":  27
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/28.png",
+                          "order":  28
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/29.png",
+                          "order":  29
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/30.png",
+                          "order":  30
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/31.png",
+                          "order":  31
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/32.png",
+                          "order":  32
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/33.png",
+                          "order":  33
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/34.png",
+                          "order":  34
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/35.png",
+                          "order":  35
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/36.png",
+                          "order":  36
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/37.png",
+                          "order":  37
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/38.png",
+                          "order":  38
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/39.png",
+                          "order":  39
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/40.png",
+                          "order":  40
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/41.png",
+                          "order":  41
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/42.png",
+                          "order":  42
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/43.png",
+                          "order":  43
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/44.png",
+                          "order":  44
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/45.png",
+                          "order":  45
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/46.png",
+                          "order":  46
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/47.png",
+                          "order":  47
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/48.png",
+                          "order":  48
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/49.png",
+                          "order":  49
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/50.png",
+                          "order":  50
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/51.png",
+                          "order":  51
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/52.png",
+                          "order":  52
+                      },
+                      {
+                          "img":  "https://raw.githubusercontent.com/MaximoXv/pinosaurus-api/refs/heads/master/chapters/Episode%203%20-%20Viridian%20Forest/53.png",
+                          "order":  53
+                      }
+                  ],
+        "order":  3
+    }
+]
